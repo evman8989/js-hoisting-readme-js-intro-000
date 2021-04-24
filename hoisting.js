@@ -27,4 +27,4 @@ function sayMyName() {
   }
   sayMy();
 }
-sayMyName();
+sayMyName()();
